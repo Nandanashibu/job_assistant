@@ -1,0 +1,874 @@
+{
+  "agile": {
+    "category": "Testing & Tools",
+    "aliases": [
+      "agile",
+      "kanban",
+      "scrum"
+    ],
+    "learn": "https://www.atlassian.com/agile"
+  },
+  "android": {
+    "category": "Mobile",
+    "aliases": [
+      "android",
+      "android studio"
+    ],
+    "learn": "https://developer.android.com/courses"
+  },
+  "angular": {
+    "category": "Web",
+    "aliases": [
+      "angular",
+      "angularjs"
+    ],
+    "learn": "https://angular.dev/tutorials"
+  },
+  "ansible": {
+    "category": "Cloud & DevOps",
+    "aliases": [
+      "ansible"
+    ],
+    "learn": null
+  },
+  "autocad": {
+    "category": "Testing & Tools",
+    "aliases": [
+      "autocad"
+    ],
+    "learn": null
+  },
+  "aws": {
+    "category": "Cloud & DevOps",
+    "aliases": [
+      "amazon web services",
+      "aws",
+      "ec2",
+      "s3"
+    ],
+    "learn": "https://aws.amazon.com/training/digital/"
+  },
+  "azure": {
+    "category": "Cloud & DevOps",
+    "aliases": [
+      "azure",
+      "microsoft azure"
+    ],
+    "learn": "https://learn.microsoft.com/en-us/training/azure/"
+  },
+  "bash": {
+    "category": "Programming",
+    "aliases": [
+      "bash",
+      "shell script",
+      "shell scripting"
+    ],
+    "learn": "https://linuxjourney.com/"
+  },
+  "bootstrap": {
+    "category": "Web",
+    "aliases": [
+      "bootstrap"
+    ],
+    "learn": "https://getbootstrap.com/docs/"
+  },
+  "c": {
+    "category": "Programming",
+    "aliases": [
+      "c language",
+      "c programming",
+      "programming in c"
+    ],
+    "learn": "https://www.learn-c.org/"
+  },
+  "c#": {
+    "category": "Programming",
+    "aliases": [
+      "c sharp",
+      "c#",
+      "csharp"
+    ],
+    "learn": "https://learn.microsoft.com/en-us/dotnet/csharp/"
+  },
+  "c++": {
+    "category": "Programming",
+    "aliases": [
+      "c++",
+      "cpp"
+    ],
+    "learn": "https://www.learncpp.com/"
+  },
+  "ci/cd": {
+    "category": "Cloud & DevOps",
+    "aliases": [
+      "ci/cd",
+      "cicd",
+      "continuous integration",
+      "github actions",
+      "jenkins"
+    ],
+    "learn": "https://docs.github.com/en/actions/quickstart"
+  },
+  "communication": {
+    "category": "Soft skills",
+    "aliases": [
+      "communication",
+      "communication skills",
+      "verbal communication",
+      "written communication"
+    ],
+    "learn": null
+  },
+  "communication protocols": {
+    "category": "Robotics & Embedded",
+    "aliases": [
+      "can bus",
+      "can protocol",
+      "i2c",
+      "spi",
+      "uart"
+    ],
+    "learn": null
+  },
+  "computer vision": {
+    "category": "Data & AI",
+    "aliases": [
+      "computer vision",
+      "opencv",
+      "yolo"
+    ],
+    "learn": "https://www.kaggle.com/learn/computer-vision"
+  },
+  "control systems": {
+    "category": "Robotics & Embedded",
+    "aliases": [
+      "control systems",
+      "kalman filter",
+      "kalman filters",
+      "pid control",
+      "pid controller"
+    ],
+    "learn": null
+  },
+  "css": {
+    "category": "Web",
+    "aliases": [
+      "css",
+      "css3"
+    ],
+    "learn": "https://developer.mozilla.org/en-US/docs/Learn/CSS"
+  },
+  "cybersecurity": {
+    "category": "Testing & Tools",
+    "aliases": [
+      "cyber security",
+      "cybersecurity",
+      "information security"
+    ],
+    "learn": "https://tryhackme.com/"
+  },
+  "data analysis": {
+    "category": "Data & AI",
+    "aliases": [
+      "data analysis",
+      "data analytics"
+    ],
+    "learn": "https://www.kaggle.com/learn"
+  },
+  "data structures": {
+    "category": "Testing & Tools",
+    "aliases": [
+      "algorithms",
+      "data structures",
+      "dsa"
+    ],
+    "learn": "https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial/"
+  },
+  "deep learning": {
+    "category": "Data & AI",
+    "aliases": [
+      "deep learning",
+      "neural network",
+      "neural networks"
+    ],
+    "learn": "https://course.fast.ai/"
+  },
+  "digital marketing": {
+    "category": "Testing & Tools",
+    "aliases": [
+      "digital marketing",
+      "social media marketing"
+    ],
+    "learn": null
+  },
+  "django": {
+    "category": "Web",
+    "aliases": [
+      "django"
+    ],
+    "learn": "https://docs.djangoproject.com/en/stable/intro/tutorial01/"
+  },
+  "docker": {
+    "category": "Cloud & DevOps",
+    "aliases": [
+      "containerization",
+      "docker"
+    ],
+    "learn": "https://docs.docker.com/get-started/"
+  },
+  "embedded c": {
+    "category": "Robotics & Embedded",
+    "aliases": [
+      "embedded c",
+      "firmware"
+    ],
+    "learn": null
+  },
+  "etl": {
+    "category": "Data & AI",
+    "aliases": [
+      "data pipeline",
+      "data pipelines",
+      "etl"
+    ],
+    "learn": null
+  },
+  "excel": {
+    "category": "Data & AI",
+    "aliases": [
+      "advanced excel",
+      "excel",
+      "microsoft excel",
+      "ms excel"
+    ],
+    "learn": "https://support.microsoft.com/en-us/excel"
+  },
+  "express": {
+    "category": "Web",
+    "aliases": [
+      "express",
+      "express.js",
+      "expressjs"
+    ],
+    "learn": "https://expressjs.com/en/starter/installing.html"
+  },
+  "fastapi": {
+    "category": "Web",
+    "aliases": [
+      "fastapi"
+    ],
+    "learn": "https://fastapi.tiangolo.com/tutorial/"
+  },
+  "figma": {
+    "category": "Testing & Tools",
+    "aliases": [
+      "figma"
+    ],
+    "learn": "https://help.figma.com/hc/en-us/categories/360002051613"
+  },
+  "firebase": {
+    "category": "Mobile",
+    "aliases": [
+      "firebase"
+    ],
+    "learn": "https://firebase.google.com/docs"
+  },
+  "flask": {
+    "category": "Web",
+    "aliases": [
+      "flask"
+    ],
+    "learn": "https://flask.palletsprojects.com/en/stable/tutorial/"
+  },
+  "flutter": {
+    "category": "Mobile",
+    "aliases": [
+      "dart",
+      "flutter"
+    ],
+    "learn": "https://docs.flutter.dev/get-started/codelab"
+  },
+  "gazebo": {
+    "category": "Robotics & Embedded",
+    "aliases": [
+      "gazebo"
+    ],
+    "learn": "https://gazebosim.org/docs"
+  },
+  "gcp": {
+    "category": "Cloud & DevOps",
+    "aliases": [
+      "gcp",
+      "google cloud"
+    ],
+    "learn": "https://cloud.google.com/learn/training"
+  },
+  "generative ai": {
+    "category": "Data & AI",
+    "aliases": [
+      "genai",
+      "generative ai",
+      "large language models",
+      "llm",
+      "llms",
+      "prompt engineering"
+    ],
+    "learn": "https://huggingface.co/learn"
+  },
+  "git": {
+    "category": "Cloud & DevOps",
+    "aliases": [
+      "git",
+      "github",
+      "gitlab",
+      "version control"
+    ],
+    "learn": "https://git-scm.com/book/en/v2"
+  },
+  "go": {
+    "category": "Programming",
+    "aliases": [
+      "go language",
+      "golang"
+    ],
+    "learn": "https://go.dev/tour/"
+  },
+  "graphql": {
+    "category": "Web",
+    "aliases": [
+      "graphql"
+    ],
+    "learn": "https://graphql.org/learn/"
+  },
+  "html": {
+    "category": "Web",
+    "aliases": [
+      "html",
+      "html5"
+    ],
+    "learn": "https://developer.mozilla.org/en-US/docs/Learn/HTML"
+  },
+  "iot": {
+    "category": "Robotics & Embedded",
+    "aliases": [
+      "internet of things",
+      "iot",
+      "mqtt"
+    ],
+    "learn": null
+  },
+  "java": {
+    "category": "Programming",
+    "aliases": [
+      "core java",
+      "java"
+    ],
+    "learn": "https://dev.java/learn/"
+  },
+  "javascript": {
+    "category": "Programming",
+    "aliases": [
+      "es6",
+      "java script",
+      "javascript"
+    ],
+    "learn": "https://developer.mozilla.org/en-US/docs/Learn/JavaScript"
+  },
+  "jira": {
+    "category": "Testing & Tools",
+    "aliases": [
+      "jira"
+    ],
+    "learn": null
+  },
+  "kotlin": {
+    "category": "Programming",
+    "aliases": [
+      "kotlin"
+    ],
+    "learn": "https://kotlinlang.org/docs/getting-started.html"
+  },
+  "kubernetes": {
+    "category": "Cloud & DevOps",
+    "aliases": [
+      "k8s",
+      "kubernetes"
+    ],
+    "learn": "https://kubernetes.io/docs/tutorials/"
+  },
+  "leadership": {
+    "category": "Soft skills",
+    "aliases": [
+      "leadership",
+      "team lead"
+    ],
+    "learn": null
+  },
+  "linux": {
+    "category": "Cloud & DevOps",
+    "aliases": [
+      "linux",
+      "ubuntu",
+      "unix"
+    ],
+    "learn": "https://linuxjourney.com/"
+  },
+  "machine learning": {
+    "category": "Data & AI",
+    "aliases": [
+      "machine learning",
+      "ml models"
+    ],
+    "learn": "https://www.kaggle.com/learn/intro-to-machine-learning"
+  },
+  "matplotlib": {
+    "category": "Data & AI",
+    "aliases": [
+      "matplotlib",
+      "seaborn"
+    ],
+    "learn": "https://www.kaggle.com/learn/data-visualization"
+  },
+  "microcontrollers": {
+    "category": "Robotics & Embedded",
+    "aliases": [
+      "8051",
+      "arduino",
+      "esp32",
+      "microcontroller",
+      "microcontrollers",
+      "stm32"
+    ],
+    "learn": null
+  },
+  "mlops": {
+    "category": "Data & AI",
+    "aliases": [
+      "mlflow",
+      "mlops"
+    ],
+    "learn": null
+  },
+  "mongodb": {
+    "category": "Databases",
+    "aliases": [
+      "mongo db",
+      "mongodb"
+    ],
+    "learn": "https://learn.mongodb.com/"
+  },
+  "monitoring": {
+    "category": "Cloud & DevOps",
+    "aliases": [
+      "elk stack",
+      "grafana",
+      "prometheus"
+    ],
+    "learn": "https://prometheus.io/docs/introduction/overview/"
+  },
+  "moveit": {
+    "category": "Robotics & Embedded",
+    "aliases": [
+      "moveit"
+    ],
+    "learn": "https://moveit.picknik.ai/main/doc/tutorials/tutorials.html"
+  },
+  "ms office": {
+    "category": "Testing & Tools",
+    "aliases": [
+      "microsoft office",
+      "ms office"
+    ],
+    "learn": null
+  },
+  "mysql": {
+    "category": "Databases",
+    "aliases": [
+      "mysql"
+    ],
+    "learn": "https://dev.mysql.com/doc/mysql-tutorial-excerpt/8.0/en/"
+  },
+  "networking": {
+    "category": "Testing & Tools",
+    "aliases": [
+      "computer networks",
+      "networking",
+      "tcp/ip"
+    ],
+    "learn": null
+  },
+  "next.js": {
+    "category": "Web",
+    "aliases": [
+      "next.js",
+      "nextjs"
+    ],
+    "learn": "https://nextjs.org/learn"
+  },
+  "nlp": {
+    "category": "Data & AI",
+    "aliases": [
+      "bert",
+      "natural language processing",
+      "nlp",
+      "transformers"
+    ],
+    "learn": "https://huggingface.co/learn/nlp-course"
+  },
+  "node.js": {
+    "category": "Web",
+    "aliases": [
+      "node js",
+      "node.js",
+      "nodejs"
+    ],
+    "learn": "https://nodejs.org/en/learn"
+  },
+  "numpy": {
+    "category": "Data & AI",
+    "aliases": [
+      "numpy"
+    ],
+    "learn": "https://numpy.org/learn/"
+  },
+  "oop": {
+    "category": "Testing & Tools",
+    "aliases": [
+      "object oriented programming",
+      "object-oriented programming",
+      "oop",
+      "oops"
+    ],
+    "learn": null
+  },
+  "oracle": {
+    "category": "Databases",
+    "aliases": [
+      "oracle database",
+      "oracle db",
+      "pl/sql"
+    ],
+    "learn": null
+  },
+  "pandas": {
+    "category": "Data & AI",
+    "aliases": [
+      "pandas"
+    ],
+    "learn": "https://www.kaggle.com/learn/pandas"
+  },
+  "pcb design": {
+    "category": "Robotics & Embedded",
+    "aliases": [
+      "altium",
+      "kicad",
+      "pcb design"
+    ],
+    "learn": null
+  },
+  "php": {
+    "category": "Programming",
+    "aliases": [
+      "php"
+    ],
+    "learn": "https://www.php.net/manual/en/tutorial.php"
+  },
+  "playwright": {
+    "category": "Testing & Tools",
+    "aliases": [
+      "playwright"
+    ],
+    "learn": "https://playwright.dev/python/docs/intro"
+  },
+  "postgresql": {
+    "category": "Databases",
+    "aliases": [
+      "postgres",
+      "postgresql"
+    ],
+    "learn": "https://www.postgresqltutorial.com/"
+  },
+  "power bi": {
+    "category": "Data & AI",
+    "aliases": [
+      "power bi",
+      "powerbi"
+    ],
+    "learn": "https://learn.microsoft.com/en-us/training/powerplatform/power-bi"
+  },
+  "problem solving": {
+    "category": "Soft skills",
+    "aliases": [
+      "analytical skills",
+      "problem solving",
+      "problem-solving"
+    ],
+    "learn": null
+  },
+  "python": {
+    "category": "Programming",
+    "aliases": [
+      "python",
+      "python3"
+    ],
+    "learn": "https://docs.python.org/3/tutorial/"
+  },
+  "pytorch": {
+    "category": "Data & AI",
+    "aliases": [
+      "pytorch"
+    ],
+    "learn": "https://pytorch.org/tutorials/"
+  },
+  "r": {
+    "category": "Programming",
+    "aliases": [
+      "r language",
+      "r programming",
+      "rstudio"
+    ],
+    "learn": "https://r4ds.hadley.nz/"
+  },
+  "raspberry pi": {
+    "category": "Robotics & Embedded",
+    "aliases": [
+      "jetson nano",
+      "nvidia jetson",
+      "raspberry pi"
+    ],
+    "learn": null
+  },
+  "react": {
+    "category": "Web",
+    "aliases": [
+      "react",
+      "react.js",
+      "reactjs"
+    ],
+    "learn": "https://react.dev/learn"
+  },
+  "react native": {
+    "category": "Mobile",
+    "aliases": [
+      "react native"
+    ],
+    "learn": "https://reactnative.dev/docs/getting-started"
+  },
+  "redis": {
+    "category": "Databases",
+    "aliases": [
+      "redis"
+    ],
+    "learn": "https://redis.io/learn"
+  },
+  "rest api": {
+    "category": "Web",
+    "aliases": [
+      "rest api",
+      "rest apis",
+      "restful",
+      "restful api"
+    ],
+    "learn": "https://www.freecodecamp.org/news/rest-api-tutorial-rest-client-rest-service-and-api-calls-explained-with-code-examples/"
+  },
+  "ros": {
+    "category": "Robotics & Embedded",
+    "aliases": [
+      "robot operating system",
+      "ros",
+      "ros 2",
+      "ros2"
+    ],
+    "learn": "https://docs.ros.org/en/humble/Tutorials.html"
+  },
+  "rtos": {
+    "category": "Robotics & Embedded",
+    "aliases": [
+      "freertos",
+      "rtos"
+    ],
+    "learn": "https://www.freertos.org/Documentation/01-FreeRTOS-quick-start/01-Beginners-guide/00-Overview"
+  },
+  "rust": {
+    "category": "Programming",
+    "aliases": [
+      "rust"
+    ],
+    "learn": "https://doc.rust-lang.org/book/"
+  },
+  "scikit-learn": {
+    "category": "Data & AI",
+    "aliases": [
+      "scikit learn",
+      "scikit-learn",
+      "sklearn"
+    ],
+    "learn": "https://scikit-learn.org/stable/getting_started.html"
+  },
+  "selenium": {
+    "category": "Testing & Tools",
+    "aliases": [
+      "selenium",
+      "test automation"
+    ],
+    "learn": "https://www.selenium.dev/documentation/"
+  },
+  "seo": {
+    "category": "Testing & Tools",
+    "aliases": [
+      "search engine optimization",
+      "seo"
+    ],
+    "learn": null
+  },
+  "slam": {
+    "category": "Robotics & Embedded",
+    "aliases": [
+      "slam"
+    ],
+    "learn": null
+  },
+  "spark": {
+    "category": "Data & AI",
+    "aliases": [
+      "apache spark",
+      "pyspark",
+      "spark"
+    ],
+    "learn": "https://spark.apache.org/docs/latest/quick-start.html"
+  },
+  "spring boot": {
+    "category": "Web",
+    "aliases": [
+      "spring boot",
+      "spring framework",
+      "springboot"
+    ],
+    "learn": "https://spring.io/guides"
+  },
+  "sql": {
+    "category": "Data & AI",
+    "aliases": [
+      "sql",
+      "structured query language"
+    ],
+    "learn": "https://sqlbolt.com/"
+  },
+  "sqlite": {
+    "category": "Databases",
+    "aliases": [
+      "sqlite"
+    ],
+    "learn": "https://www.sqlitetutorial.net/"
+  },
+  "statistics": {
+    "category": "Data & AI",
+    "aliases": [
+      "statistical analysis",
+      "statistics"
+    ],
+    "learn": "https://www.khanacademy.org/math/statistics-probability"
+  },
+  "swift": {
+    "category": "Programming",
+    "aliases": [
+      "swift"
+    ],
+    "learn": "https://www.swift.org/getting-started/"
+  },
+  "tableau": {
+    "category": "Data & AI",
+    "aliases": [
+      "tableau"
+    ],
+    "learn": "https://www.tableau.com/learn/training"
+  },
+  "tailwind": {
+    "category": "Web",
+    "aliases": [
+      "tailwind",
+      "tailwindcss"
+    ],
+    "learn": "https://tailwindcss.com/docs"
+  },
+  "tally": {
+    "category": "Testing & Tools",
+    "aliases": [
+      "tally",
+      "tally erp"
+    ],
+    "learn": null
+  },
+  "teamwork": {
+    "category": "Soft skills",
+    "aliases": [
+      "collaboration",
+      "team player",
+      "teamwork"
+    ],
+    "learn": null
+  },
+  "tensorflow": {
+    "category": "Data & AI",
+    "aliases": [
+      "keras",
+      "tensorflow"
+    ],
+    "learn": "https://www.tensorflow.org/tutorials"
+  },
+  "terraform": {
+    "category": "Cloud & DevOps",
+    "aliases": [
+      "terraform"
+    ],
+    "learn": "https://developer.hashicorp.com/terraform/tutorials"
+  },
+  "testing": {
+    "category": "Testing & Tools",
+    "aliases": [
+      "api testing",
+      "jest",
+      "junit",
+      "manual testing",
+      "pytest",
+      "regression testing",
+      "test cases",
+      "testng",
+      "unit testing",
+      "unit tests"
+    ],
+    "learn": "https://docs.pytest.org/en/stable/getting-started.html"
+  },
+  "time management": {
+    "category": "Soft skills",
+    "aliases": [
+      "time management"
+    ],
+    "learn": null
+  },
+  "typescript": {
+    "category": "Programming",
+    "aliases": [
+      "typescript"
+    ],
+    "learn": "https://www.typescriptlang.org/docs/"
+  },
+  "vue": {
+    "category": "Web",
+    "aliases": [
+      "vue",
+      "vue.js",
+      "vuejs"
+    ],
+    "learn": "https://vuejs.org/tutorial/"
+  },
+  "web scraping": {
+    "category": "Testing & Tools",
+    "aliases": [
+      "beautifulsoup",
+      "scrapy",
+      "web scraping"
+    ],
+    "learn": "https://realpython.com/beautiful-soup-web-scraper-python/"
+  }
+}

@@ -1,0 +1,14 @@
+# Resume reading
+pymupdf
+python-docx
+# Website
+streamlit>=1.37
+pandas
+# Matching and the fake-job model
+scikit-learn
+joblib
+# Job collection
+requests
+beautifulsoup4
+# Cover letters
+jinja2

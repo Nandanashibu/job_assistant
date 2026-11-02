@@ -1,0 +1,27 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Secrets: never upload
+.env
+
+# Data created while the app runs
+data/*.db
+data/uploads/
+data/outbox/
+
+# Big dataset (download it from Kaggle instead, see scripts/train_fake_model.py)
+data/fake_job_postings.csv
+
+# Resumes: block real ones, but keep the fictional sample resumes used by the demo
+data/*.pdf
+data/*.docx
+!data/*_resume.pdf
+!data/*_resume.docx
+!data/weak_resume_for_ats_test.pdf
+
+# The trained fake-job model IS uploaded (2 MB) so the deployed app can use it
+
+# Local helper script
+push_to_github.bat

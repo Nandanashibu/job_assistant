@@ -1,0 +1,308 @@
+[
+  {
+    "title": "Sales dashboard from a public dataset",
+    "skills": [
+      "sql",
+      "power bi",
+      "excel",
+      "data analysis"
+    ],
+    "level": "Beginner",
+    "description": "Load a Kaggle retail dataset into MySQL, write 10 business queries, and build a Power BI dashboard with filters by month and region."
+  },
+  {
+    "title": "Kerala rainfall analysis",
+    "skills": [
+      "python",
+      "pandas",
+      "matplotlib",
+      "statistics"
+    ],
+    "level": "Beginner",
+    "description": "Use open IMD rainfall data to find trends by district and season; publish the notebook on GitHub."
+  },
+  {
+    "title": "Tableau story on startup funding",
+    "skills": [
+      "tableau",
+      "data analysis",
+      "excel"
+    ],
+    "level": "Beginner",
+    "description": "Build a Tableau story showing funding by sector and city with 3 clear insights."
+  },
+  {
+    "title": "Automated ETL pipeline",
+    "skills": [
+      "python",
+      "sql",
+      "etl",
+      "postgresql",
+      "docker"
+    ],
+    "level": "Intermediate",
+    "description": "Fetch daily data from a public API, clean it with Pandas and load it into PostgreSQL on a schedule, all running in Docker."
+  },
+  {
+    "title": "Student marks REST API",
+    "skills": [
+      "python",
+      "fastapi",
+      "rest api",
+      "sqlite",
+      "testing"
+    ],
+    "level": "Beginner",
+    "description": "CRUD API for students and marks with FastAPI, SQLite and pytest tests; document it with Swagger."
+  },
+  {
+    "title": "Blog platform with login",
+    "skills": [
+      "django",
+      "postgresql",
+      "html",
+      "css",
+      "bootstrap"
+    ],
+    "level": "Beginner",
+    "description": "Users can register, write posts and comment; deploy it on a free hosting service."
+  },
+  {
+    "title": "Job tracker web app",
+    "skills": [
+      "react",
+      "node.js",
+      "express",
+      "mongodb",
+      "rest api"
+    ],
+    "level": "Intermediate",
+    "description": "MERN app to track job applications with status columns and reminders."
+  },
+  {
+    "title": "Portfolio site with Next.js",
+    "skills": [
+      "next.js",
+      "react",
+      "typescript",
+      "tailwind"
+    ],
+    "level": "Beginner",
+    "description": "Personal portfolio with a projects page pulled from your GitHub API."
+  },
+  {
+    "title": "Real-time chat app",
+    "skills": [
+      "node.js",
+      "react",
+      "redis",
+      "javascript"
+    ],
+    "level": "Intermediate",
+    "description": "Group chat using WebSockets with Redis for online status."
+  },
+  {
+    "title": "Dockerise and deploy a web app",
+    "skills": [
+      "docker",
+      "aws",
+      "ci/cd",
+      "linux",
+      "git"
+    ],
+    "level": "Intermediate",
+    "description": "Containerise one of your apps and deploy it to AWS EC2 automatically with GitHub Actions."
+  },
+  {
+    "title": "Kubernetes home lab",
+    "skills": [
+      "kubernetes",
+      "docker",
+      "monitoring",
+      "terraform"
+    ],
+    "level": "Advanced",
+    "description": "Run a 3-service app on a local Kubernetes cluster (kind/minikube) with Prometheus and Grafana dashboards; create the cloud version with Terraform."
+  },
+  {
+    "title": "Selenium test suite for a demo shop",
+    "skills": [
+      "selenium",
+      "testing",
+      "java",
+      "ci/cd"
+    ],
+    "level": "Beginner",
+    "description": "Page-object-model tests for login, search and checkout, running in Jenkins or GitHub Actions."
+  },
+  {
+    "title": "API test collection",
+    "skills": [
+      "testing",
+      "rest api",
+      "python"
+    ],
+    "level": "Beginner",
+    "description": "Write automated API tests with pytest + requests for a public API and report results in HTML."
+  },
+  {
+    "title": "Resume classifier",
+    "skills": [
+      "machine learning",
+      "nlp",
+      "scikit-learn",
+      "python"
+    ],
+    "level": "Intermediate",
+    "description": "Classify resumes into job roles with TF-IDF and Logistic Regression; report accuracy and a confusion matrix."
+  },
+  {
+    "title": "Chat with your PDFs (RAG)",
+    "skills": [
+      "generative ai",
+      "nlp",
+      "python",
+      "fastapi"
+    ],
+    "level": "Intermediate",
+    "description": "Upload PDFs, split them into chunks, embed them and answer questions with an LLM, served by FastAPI."
+  },
+  {
+    "title": "Plant disease detector",
+    "skills": [
+      "deep learning",
+      "computer vision",
+      "pytorch",
+      "python"
+    ],
+    "level": "Intermediate",
+    "description": "Fine-tune a CNN on the PlantVillage dataset and build a simple web page to upload leaf photos."
+  },
+  {
+    "title": "Model deployment with MLflow",
+    "skills": [
+      "mlops",
+      "docker",
+      "machine learning",
+      "aws"
+    ],
+    "level": "Advanced",
+    "description": "Track experiments with MLflow, package the best model in Docker and serve it on AWS."
+  },
+  {
+    "title": "Line-following robot in simulation",
+    "skills": [
+      "ros",
+      "gazebo",
+      "python",
+      "control systems"
+    ],
+    "level": "Intermediate",
+    "description": "Simulate a differential-drive robot in Gazebo with ROS 2 and a PID line follower."
+  },
+  {
+    "title": "SLAM mapping of a room",
+    "skills": [
+      "ros",
+      "slam",
+      "c++",
+      "linux"
+    ],
+    "level": "Advanced",
+    "description": "Map a simulated house with SLAM Toolbox and navigate between rooms with Nav2."
+  },
+  {
+    "title": "Smart energy monitor",
+    "skills": [
+      "microcontrollers",
+      "iot",
+      "embedded c",
+      "rtos"
+    ],
+    "level": "Intermediate",
+    "description": "ESP32 reads a current sensor, runs FreeRTOS tasks and publishes readings over MQTT to a dashboard."
+  },
+  {
+    "title": "Weather station on Raspberry Pi",
+    "skills": [
+      "raspberry pi",
+      "python",
+      "iot",
+      "linux"
+    ],
+    "level": "Beginner",
+    "description": "Read temperature and humidity sensors and plot them on a web page."
+  },
+  {
+    "title": "Expense tracker app",
+    "skills": [
+      "flutter",
+      "firebase",
+      "rest api"
+    ],
+    "level": "Beginner",
+    "description": "Flutter app with Firebase login and monthly charts; publish an APK on GitHub."
+  },
+  {
+    "title": "Bus timetable Android app",
+    "skills": [
+      "android",
+      "kotlin",
+      "sqlite"
+    ],
+    "level": "Beginner",
+    "description": "Offline KSRTC timetable app in Kotlin with search and favourites."
+  },
+  {
+    "title": "Spring Boot library system",
+    "skills": [
+      "java",
+      "spring boot",
+      "mysql",
+      "rest api"
+    ],
+    "level": "Beginner",
+    "description": "Book issue and return API with Spring Boot and MySQL, with JUnit tests."
+  },
+  {
+    "title": "Figma redesign of a college website",
+    "skills": [
+      "figma",
+      "html",
+      "css"
+    ],
+    "level": "Beginner",
+    "description": "Redesign 3 pages in Figma, then build the home page in HTML and CSS."
+  },
+  {
+    "title": "Spark analysis of taxi trips",
+    "skills": [
+      "spark",
+      "python",
+      "sql",
+      "etl"
+    ],
+    "level": "Intermediate",
+    "description": "Process a large NYC taxi dataset with PySpark and answer 5 business questions."
+  },
+  {
+    "title": "GraphQL movie API",
+    "skills": [
+      "graphql",
+      "node.js",
+      "postgresql"
+    ],
+    "level": "Intermediate",
+    "description": "Movie catalogue API with GraphQL queries and mutations."
+  },
+  {
+    "title": "Linux automation scripts",
+    "skills": [
+      "bash",
+      "linux",
+      "git"
+    ],
+    "level": "Beginner",
+    "description": "Write backup, log-cleanup and server-health scripts and schedule them with cron."
+  }
+]

@@ -1,0 +1,5 @@
+[server]
+maxUploadSize = 5          # MB, enough for any resume
+
+[browser]
+gatherUsageStats = false

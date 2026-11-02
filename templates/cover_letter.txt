@@ -1,0 +1,14 @@
+Dear Hiring Manager,
+
+I am writing to apply for the {{ job.title }} position at {{ job.company or "your company" }}{% if job.source in ("Infopark", "Technopark") %}, which I found on the {{ job.source }} careers page{% endif %}.
+
+{% if degree %}I hold a {{ degree }}{% if experience_years >= 1 %} and have {{ experience_years }} years of hands-on experience{% elif experience_years > 0 %} and have completed an internship{% endif %}. {% endif %}{% if matched_skills %}Your requirements include {{ matched_skills[:5] | join(", ") }}, and I have worked with {% if matched_skills | length > 1 %}each of these{% else %}this{% endif %} in my projects and work.{% endif %}{% if other_skills %} I also bring experience with {{ other_skills[:3] | join(", ") }}.{% endif %}
+
+{% if learning %}I am currently strengthening my skills in {{ learning | join(" and ") }} so that I can contribute fully from the start. {% endif %}I am a quick learner who enjoys solving real problems, and I would value the chance to contribute to your team.
+
+My resume is attached. Thank you for considering my application; I would be glad to discuss how I can help {{ job.company or "your team" }}.
+
+Sincerely,
+{{ name }}
+{{ email }}{% if phone %} | {{ phone }}{% endif %}{% if linkedin %}
+{{ linkedin }}{% endif %}

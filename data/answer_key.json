@@ -1,0 +1,132 @@
+[
+  {
+    "file": "data_analyst_resume.pdf",
+    "name": "Ananya Menon",
+    "role": "Data Analyst",
+    "email": "ananya.menon@example.com",
+    "phone": "+91 90000 11111",
+    "experience_years": "~2 (Jan 2024 - present)",
+    "highest_degree": "B.Sc. Statistics",
+    "level": "Mid"
+  },
+  {
+    "file": "ros_engineer_resume.pdf",
+    "name": "Rahul Nair",
+    "role": "Robotics / ROS Engineer",
+    "email": "rahul.nair.robotics@example.com",
+    "phone": "+91 90000 22222",
+    "experience_years": "~4 (Jun 2022 - present)",
+    "highest_degree": "B.Tech ECE",
+    "level": "Mid"
+  },
+  {
+    "file": "python_developer_fresher_resume.pdf",
+    "name": "Fathima Rasheed",
+    "role": "Python Developer (Fresher)",
+    "email": "fathima.rasheed@example.com",
+    "phone": "+91 90000 33333",
+    "experience_years": "0.25 (internship)",
+    "highest_degree": "B.Tech CSE (2026)",
+    "level": "Fresher"
+  },
+  {
+    "file": "software_tester_resume.docx",
+    "name": "Arjun Pillai",
+    "role": "Software Test Engineer",
+    "email": "arjun.pillai.qa@example.com",
+    "phone": "+91 90000 44444",
+    "experience_years": "~2.5 (May 2024 - present)",
+    "highest_degree": "MCA",
+    "level": "Junior"
+  },
+  {
+    "file": "weak_resume_for_ats_test.pdf",
+    "name": "Vishnu K",
+    "role": "None stated (weak resume)",
+    "email": "vishnu.k.demo@example.com",
+    "phone": "",
+    "experience_years": "0",
+    "highest_degree": "BCA",
+    "level": "Fresher - should get a LOW ATS score"
+  },
+  {
+    "file": "ml_engineer_resume.pdf",
+    "name": "Sneha Thomas",
+    "role": "Machine Learning Engineer",
+    "email": "sneha.thomas.ml@example.com",
+    "phone": "+91 90000 55555",
+    "experience_years": "~1.8 (Jan 2025 - present)",
+    "highest_degree": "M.Tech AI",
+    "level": "Junior"
+  },
+  {
+    "file": "fullstack_mern_developer_resume.pdf",
+    "name": "Adithya Krishnan",
+    "role": "Full Stack (MERN) Developer",
+    "email": "adithya.k.dev@example.com",
+    "phone": "+91 90000 66666",
+    "experience_years": "~3.4 (Jun 2023 - present)",
+    "highest_degree": "B.Tech IT",
+    "level": "Mid"
+  },
+  {
+    "file": "devops_engineer_resume.pdf",
+    "name": "Mohammed Irfan",
+    "role": "DevOps Engineer",
+    "email": "irfan.devops@example.com",
+    "phone": "+91 90000 77777",
+    "experience_years": "~5.3 (Jul 2021 - present)",
+    "highest_degree": "B.Tech CSE",
+    "level": "Senior"
+  },
+  {
+    "file": "android_flutter_developer_resume.docx",
+    "name": "Meera Suresh",
+    "role": "Flutter / Android Developer",
+    "email": "meera.suresh.apps@example.com",
+    "phone": "+91 90000 88888",
+    "experience_years": "~1.6 (Mar 2025 - present)",
+    "highest_degree": "BCA",
+    "level": "Junior"
+  },
+  {
+    "file": "embedded_systems_engineer_resume.pdf",
+    "name": "Gokul Raj",
+    "role": "Embedded Systems Engineer",
+    "email": "gokul.raj.embedded@example.com",
+    "phone": "+91 90000 99999",
+    "experience_years": "~3.3 (Jul 2023 - present)",
+    "highest_degree": "B.Tech EEE",
+    "level": "Mid"
+  },
+  {
+    "file": "average_fresher_resume.pdf",
+    "name": "Anjali Varghese",
+    "role": "Web developer fresher (average resume)",
+    "email": "anjali.v.demo@example.com",
+    "phone": "+91 90000 12121",
+    "experience_years": "0.2 (internship)",
+    "highest_degree": "B.Tech CSE",
+    "level": "Fresher - typical resume with common mistakes, should score MEDIUM"
+  },
+  {
+    "file": "average_java_resume.pdf",
+    "name": "Sreejith Mohan",
+    "role": "Java Developer (average resume)",
+    "email": "sreejith.m.demo@example.com",
+    "phone": "+91 90000 13131",
+    "experience_years": "~1.3 (Aug 2025 - present)",
+    "highest_degree": "BCA",
+    "level": "Junior - weak bullet points, should score MEDIUM"
+  },
+  {
+    "file": "two_column_designer_resume.pdf",
+    "name": "Nikhil Das",
+    "role": "Data Analyst fresher (two-column designer resume)",
+    "email": "nikhil.das.demo@example.com",
+    "phone": "+91 90000 14141",
+    "experience_years": "0.5 (internship)",
+    "highest_degree": "B.Sc. Mathematics",
+    "level": "Fresher - good content but ATS-unfriendly layout: two columns, photo, table, contact in footer"
+  }
+]
